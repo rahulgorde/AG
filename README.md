@@ -43,7 +43,6 @@ I specialize in **.NET Core, Angular, Microservices, CQRS, Event-Driven Architec
 ### 🔹 Tools & Platforms  
 - Git, GitHub, GitLab  
 - Postman, Swagger  
-- Docker (basic)  
 
 ---
 
